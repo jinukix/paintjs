@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T01:53:13.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.3.8" etag="zTygaZlksCDdpjXPxtvo" type="github"><diagram id="NgjdtyjhkyuXqvKZazR6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-13T02:00:05.810Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="y7p7zrAn4EsdUVXUOFbT" version="15.3.8" type="github">
+  <diagram id="NgjdtyjhkyuXqvKZazR6" name="Page-1">
+    <mxGraphModel dx="983" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dLBPKk--kfKn2xMkwO0x-1" target="dLBPKk--kfKn2xMkwO0x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-1" value="ConfigurableEnvironment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-3" value="MutablePropertySources" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-4" value="시스템 프로퍼티&lt;br&gt;Property Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-5" value="시스템 프로퍼티&lt;br&gt;Property Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-7" value="시스템 프로퍼티&lt;br&gt;Property Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-8" value="시스템 프로퍼티&lt;br&gt;Property Source" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLBPKk--kfKn2xMkwO0x-1" target="dLBPKk--kfKn2xMkwO0x-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-10" value="2. 프로퍼티 값 요청" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="dLBPKk--kfKn2xMkwO0x-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-12" value="" style="endArrow=classic;html=1;entryX=0.478;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dLBPKk--kfKn2xMkwO0x-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="446" y="80" as="sourcePoint" />
+            <mxPoint x="460" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-13" value="1. 프로퍼티 값 요청" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="dLBPKk--kfKn2xMkwO0x-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLBPKk--kfKn2xMkwO0x-16" value="" style="curved=1;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dLBPKk--kfKn2xMkwO0x-3" target="dLBPKk--kfKn2xMkwO0x-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153" y="310" as="sourcePoint" />
+            <mxPoint x="203" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="330" />
+              <mxPoint x="70" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
